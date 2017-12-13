@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/jstl/1.2/jstl-1.2.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+  <classpathentry kind="var" path="M2_REPO/javax/javaee-api/7.0/javaee-api-7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/no/tornado/libsass-filter/0.1.2/libsass-filter-0.1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/warmuuh/libsass-maven-plugin/0.1.2/libsass-maven-plugin-0.1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/projectlombok/lombok/1.14.2/lombok-1.14.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-servlet/2.0.12.Final/rewrite-servlet-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-config-prettyfaces/2.0.12.Final/rewrite-config-prettyfaces-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-annotations-impl/2.0.12.Final/rewrite-annotations-impl-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-api/2.0.12.Final/rewrite-api-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/common/common-api/1.0.5.Final/common-api-1.0.5.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/logging/logging-api/1.0.2.Final/logging-api-1.0.2.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-api-servlet/2.0.12.Final/rewrite-api-servlet-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-addressbuilder/2.0.12.Final/rewrite-addressbuilder-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-annotations-api/2.0.12.Final/rewrite-annotations-api-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/ocpsoft/rewrite/rewrite-integration-faces/2.0.12.Final/rewrite-integration-faces-2.0.12.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/sn/objis/Calcul/1.0-SNAPSHOT/Calcul-1.0-SNAPSHOT.jar"/>
+</classpath>
